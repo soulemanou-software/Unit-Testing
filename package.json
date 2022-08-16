@@ -1,0 +1,24 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "UnitTest.js",
+  "scripts": {
+    "test": "Jest",
+    "watch": "Jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soulemanou-software/Unit-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soulemanou-software/Unit-Testing/issues"
+  },
+  "homepage": "https://github.com/soulemanou-software/Unit-Testing#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
